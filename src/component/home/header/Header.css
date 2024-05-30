@@ -1,0 +1,17 @@
+header{
+    height: 50px;
+    background-color: orange;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+
+}
+
+header span{
+    font-weight: bolder;
+}
+
+td{
+    color: white;
+}
